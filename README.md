@@ -1,5 +1,5 @@
 # mia
 MIA
 
-Scikit / open
+Scikit / opencv 
 env
