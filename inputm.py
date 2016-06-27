@@ -2,6 +2,9 @@
 # scikit
 import numpy as np
 
+SE type
+SE size
+
  array([[1, 1, 1, 1, 1],
         [1, 1, 1, 1, 1],
         [1, 1, 1, 1, 1],
