@@ -1,6 +1,7 @@
 +
 # scikit
 import numpy as np
+import
 
 SE type
 SE size
@@ -17,3 +18,8 @@ SE size
         [1, 1, 1, 1, 1],
         [1, 1, 1, 1, 1]], dtype=uint8)
 
+ array([[1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1]], dtype=uint8)
